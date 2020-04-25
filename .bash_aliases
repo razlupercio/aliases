@@ -21,3 +21,6 @@ alias update='sudo apt-get update && sudo apt-get upgrade'
 
 # edit hosts quickly
 alias vimhosts='vim /etc/hosts'
+
+# restart shared folders
+alias rmnt='/usr/local/sbin/mount-shared-folders'
